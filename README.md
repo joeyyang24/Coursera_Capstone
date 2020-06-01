@@ -12,8 +12,5 @@ Due to the increasing interactions among big cities in North America and also th
  
  Interesting findings:
  
-The Bronx		    York
-Brooklyn		    North York
-Manhattan		    Toronto
-Queens		      North York
-Staten Island		East York
+ - Queens	--> North York  
+ - Staten Island	--> East York
